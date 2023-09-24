@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 //a sample comment
+//another sample comment
 
 void color(int i);
 void space(int a, int b, int c);
